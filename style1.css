@@ -1,0 +1,27 @@
+.top
+{   box-sizing: border-box;
+    border-style:double;
+    border-radius: 20px;
+}
+
+
+.first
+{
+    background-color:cadetblue;
+    align-items: flex-start;
+}
+.det
+{
+    font-family: Franklin Gothic ;
+    font-size:20px;
+    color:aliceblue;
+    line-height: 30px;
+    
+}
+.spa
+{
+    font-weight: bolder;
+    text-transform: uppercase;
+
+}
+
